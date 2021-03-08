@@ -63,17 +63,14 @@ h3{
     }
 article{
     background: #fffbb9;
-    border: 1px solid #999999;
-    padding: 20px;
+    border: 10px solid #999999;
+    padding: 50px;
     margin-bottom: 15px;
 }
 time{
     color: #999999;
 }
-article footer{
-    text-align: right;
-    margin-top: 20px;
-}
+
 
 .columna{
     width:  300px;
