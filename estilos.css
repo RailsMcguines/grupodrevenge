@@ -3,6 +3,7 @@
     padding: 0;
 }
 h1 {
+    
     font-size: 20px;
     font-family: sans-serif;
     font-weight: bold;
@@ -33,7 +34,12 @@ body{
     border: 1px solid #999999;
     padding:20px ;
 }
-.cabecera h1{
+.cabecera2{
+    background: #fffbb9;
+    border: 1px solid #999999;
+    padding:20px ;
+}
+h3{
 
     text-align: left;
 }
@@ -91,3 +97,5 @@ img{
     margin: 20px auto;
 
 }
+
+   
